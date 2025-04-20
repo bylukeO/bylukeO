@@ -29,7 +29,7 @@ React    ███████░░░░░░  65%
 
 ## 🎓 Education
 
-- **B.Sc. Computer Science**
+- **B.Sc. Computer Science**  
   Augustine University, Ilara-epe, Lagos State, Nigeria
 
 ## 💼 Experience
@@ -72,8 +72,8 @@ A task management application with reminder functionality and cloud sync.
 - Phone: +234 7046520466
 - Location: Nigeria
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luke-oladejo-487b6625b)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/luke-oladejo](https://x.com/byluke_o?s=11))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-oladejo-487b6625b)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/byluke_o?s=11)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luke-oladejo)
 
 ---
